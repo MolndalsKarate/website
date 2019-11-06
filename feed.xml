@@ -3,7 +3,7 @@
     <title>Mölndals Karate</title>
     <link href="https://MolndalsKarate.github.io/website/feed.xml" rel="self" />
     <link href="https://MolndalsKarate.github.io/website" />
-    <updated>2019-11-06T17:25:59+01:00</updated>
+    <updated>2019-11-06T19:06:13+01:00</updated>
     <author>
         <name>Sebastian Bernhardtz</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://MolndalsKarate.github.io/website/hitta-hit.html"/>
         <id>https://MolndalsKarate.github.io/website/hitta-hit.html</id>
 
-        <updated>2019-11-06T17:23:47+01:00</updated>
+        <updated>2019-11-06T17:29:00+01:00</updated>
             <summary>
                 <![CDATA[
                     Some contentSome contentSome content
@@ -26,13 +26,13 @@
         <content type="html">
             <![CDATA[
                 <div class="row">
-<div class="inline">
+<div class="inline inline--first">
 <h3 id="mcetoc_1dp0o9bsm0">Some content</h3>
 </div>
-<div class="inline">
+<div class="inline inline--second">
 <h3 id="mcetoc_1dp0o9bsm1">Some content</h3>
 </div>
-<div class="inline">
+<div class="inline inline--third">
 <h3 id="mcetoc_1dp0o9bsm2">Some content</h3>
 </div>
 </div>
