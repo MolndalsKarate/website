@@ -10,5 +10,32 @@
         "name": "Sebastian Bernhardtz"
     },
     "items": [
+        {
+            "id": "https://MolndalsKarate.github.io/website/hitta-hit.html",
+            "url": "https://MolndalsKarate.github.io/website/hitta-hit.html",
+            "title": "Hitta hit",
+            "summary": "Some contentSome contentSome content",
+            "content_html": "<div class=\"row\">\n<div class=\"inline\">\n<h3 id=\"mcetoc_1dp0o9bsm0\">Some content</h3>\n</div>\n<div class=\"inline\">\n<h3 id=\"mcetoc_1dp0o9bsm1\">Some content</h3>\n</div>\n<div class=\"inline\">\n<h3 id=\"mcetoc_1dp0o9bsm2\">Some content</h3>\n</div>\n</div>",
+            "author": {
+                "name": "Sebastian Bernhardtz"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-06T17:20:51+01:00",
+            "date_modified": "2019-11-06T17:23:47+01:00"
+        },
+        {
+            "id": "https://MolndalsKarate.github.io/website/vaelkommen.html",
+            "url": "https://MolndalsKarate.github.io/website/vaelkommen.html",
+            "title": "Välkommen",
+            "image": "https://MolndalsKarate.github.io/website/media/posts/1/molndals-karateklubb-wooden-bg-lion_lrg-compressor.jpg",
+            "author": {
+                "name": "Sebastian Bernhardtz"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-06T16:55:36+01:00",
+            "date_modified": "2019-11-06T16:55:36+01:00"
+        }
     ]
 }

@@ -3,10 +3,52 @@
     <title>Mölndals Karate</title>
     <link href="https://MolndalsKarate.github.io/website/feed.xml" rel="self" />
     <link href="https://MolndalsKarate.github.io/website" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2019-11-06T17:25:59+01:00</updated>
     <author>
         <name>Sebastian Bernhardtz</name>
     </author>
     <id>https://MolndalsKarate.github.io/website</id>
 
+    <entry>
+        <title>Hitta hit</title>
+        <author>
+            <name>Sebastian Bernhardtz</name>
+        </author>
+        <link href="https://MolndalsKarate.github.io/website/hitta-hit.html"/>
+        <id>https://MolndalsKarate.github.io/website/hitta-hit.html</id>
+
+        <updated>2019-11-06T17:23:47+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Some contentSome contentSome content
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="row">
+<div class="inline">
+<h3 id="mcetoc_1dp0o9bsm0">Some content</h3>
+</div>
+<div class="inline">
+<h3 id="mcetoc_1dp0o9bsm1">Some content</h3>
+</div>
+<div class="inline">
+<h3 id="mcetoc_1dp0o9bsm2">Some content</h3>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Välkommen</title>
+        <author>
+            <name>Sebastian Bernhardtz</name>
+        </author>
+        <link href="https://MolndalsKarate.github.io/website/vaelkommen.html"/>
+        <id>https://MolndalsKarate.github.io/website/vaelkommen.html</id>
+
+        <updated>2019-11-06T16:55:36+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
