@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mölndals Karate",
+    "description": "",
+    "home_page_url": "https://MolndalsKarate.github.io/website",
+    "feed_url": "https://MolndalsKarate.github.io/website/feed.json",
+    "user_comment": "",
+    "icon": "https://MolndalsKarate.github.io/website/media/website/shinzen-karate_560x200.png",
+    "author": {
+        "name": "Sebastian Bernhardtz"
+    },
+    "items": [
+    ]
+}
