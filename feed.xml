@@ -3,52 +3,145 @@
     <title>Mölndals Karate</title>
     <link href="https://MolndalsKarate.github.io/website/feed.xml" rel="self" />
     <link href="https://MolndalsKarate.github.io/website" />
-    <updated>2019-11-06T19:06:13+01:00</updated>
+    <updated>2019-11-20T15:31:23+01:00</updated>
     <author>
         <name>Sebastian Bernhardtz</name>
     </author>
     <id>https://MolndalsKarate.github.io/website</id>
 
     <entry>
-        <title>Hitta hit</title>
+        <title>Artikel nummer fyra</title>
         <author>
             <name>Sebastian Bernhardtz</name>
         </author>
-        <link href="https://MolndalsKarate.github.io/website/hitta-hit.html"/>
-        <id>https://MolndalsKarate.github.io/website/hitta-hit.html</id>
+        <link href="https://MolndalsKarate.github.io/website/artikel-nummer-4.html"/>
+        <id>https://MolndalsKarate.github.io/website/artikel-nummer-4.html</id>
 
-        <updated>2019-11-06T17:29:00+01:00</updated>
+        <updated>2019-11-19T20:40:31+01:00</updated>
             <summary>
                 <![CDATA[
-                    Some contentSome contentSome content
+                        <img src="https://MolndalsKarate.github.io/website/media/posts/5/charles-postiaux-kerhvcuNUY8-unsplash.jpg" alt="Test post" />
+                    <div class="post__toc">
+<h3>Innehåll</h3>
+<ul>
+<li><a href="#mcetoc_1dq2i9dod0">Lorem ipsum dolor sit amet</a></li>
+<li><a href="#mcetoc_1dq2i9dod0">Lorem ipsum dolor sit amet</a></li>
+</ul>
+</div>
+<h3 id="mcetoc_1dq2i9dod0">Lorem ipsum dolor sit amet</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor sit amet lacus sed rutrum. Cras ligula dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus. Duis rhoncus diam quis tellus tincidunt fringilla. Etiam ut tincidunt est, fermentum interdum lorem.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="row">
-<div class="inline inline--first">
-<h3 id="mcetoc_1dp0o9bsm0">Some content</h3>
+                    <img src="https://MolndalsKarate.github.io/website/media/posts/5/charles-postiaux-kerhvcuNUY8-unsplash.jpg" alt="Test post" />
+                <div class="post__toc">
+<h3>Innehåll</h3>
+<ul>
+<li><a href="#mcetoc_1dq2i9dod0">Lorem ipsum dolor sit amet</a></li>
+<li><a href="#mcetoc_1dq2i9dod0">Lorem ipsum dolor sit amet</a></li>
+</ul>
 </div>
-<div class="inline inline--second">
-<h3 id="mcetoc_1dp0o9bsm1">Some content</h3>
-</div>
-<div class="inline inline--third">
-<h3 id="mcetoc_1dp0o9bsm2">Some content</h3>
-</div>
-</div>
+<h3 id="mcetoc_1dq2i9dod0">Lorem ipsum dolor sit amet</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor sit amet lacus sed rutrum. Cras ligula dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus. Duis rhoncus diam quis tellus tincidunt fringilla. Etiam ut tincidunt est, fermentum interdum lorem.</p>
+
+<p>Curabitur velit velit, dapibus in massa eget, tristique mattis ligula. Curabitur lacinia, diam vel tincidunt ultricies, enim quam facilisis arcu, at blandit arcu lorem at ipsum. Nulla facilisi. Cras nisl tortor, accumsan in tortor in, rutrum egestas orci. Nulla at vehicula turpis. Nunc accumsan interdum metus, sed facilisis ipsum gravida at. Sed non enim sagittis, suscipit orci vel, fringilla ex. Sed et ipsum ut ligula lobortis eleifend eget quis lacus.</p>
+<h3 id="mcetoc_1dq2i9dod0">Lorem ipsum dolor sit amet</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor sit amet lacus sed rutrum. Cras ligula dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus. Duis rhoncus diam quis tellus tincidunt fringilla. Etiam ut tincidunt est, fermentum interdum lorem. Curabitur velit velit, dapibus in massa eget, tristique mattis ligula. Curabitur lacinia, diam vel tincidunt ultricies, enim quam facilisis arcu, at blandit arcu lorem at ipsum. Nulla facilisi. Cras nisl tortor, accumsan in tortor in, rutrum egestas orci. Nulla at vehicula turpis. Nunc accumsan interdum metus, sed facilisis ipsum gravida at. Sed non enim sagittis, suscipit orci vel, fringilla ex. Sed et ipsum ut ligula lobortis eleifend eget quis lacus.</p>
+<p><img class="post__image--wide" src="https://MolndalsKarate.github.io/website/media/posts/5/Karate-Classes.jpg" alt="Test image" width="3600" height="2160"></p>
+<p>Phasellus tempor sit amet lacus sed rutrum. Cras ligula dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus.</p>
+<ul style="list-style-type: circle;">
+<li>tempor</li>
+<li>lacus</li>
+<li>rutrum</li>
+</ul>
+<p>dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Välkommen</title>
+        <title>Artikel nummer tre</title>
+        <author>
+            <name>Sebastian Bernhardtz</name>
+        </author>
+        <link href="https://MolndalsKarate.github.io/website/artikel-nummer-3.html"/>
+        <id>https://MolndalsKarate.github.io/website/artikel-nummer-3.html</id>
+
+        <updated>2019-11-19T20:40:20+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://MolndalsKarate.github.io/website/media/posts/4/jase-bloor-oCZHIa1D4EU-unsplash.jpg" alt="Test post" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor sit amet lacus sed rutrum. Cras ligula dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus. Duis rhoncus diam quis tellus tincidunt fringilla. Etiam ut tincidunt&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://MolndalsKarate.github.io/website/media/posts/4/jase-bloor-oCZHIa1D4EU-unsplash.jpg" alt="Test post" />
+                <img class="post__image--full" src="https://MolndalsKarate.github.io/website/media/posts/4//jase-bloor-oCZHIa1D4EU-unsplash.jpg" alt="Only for test" width="2074" height="2160">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor sit amet lacus sed rutrum. Cras ligula dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus. Duis rhoncus diam quis tellus tincidunt fringilla. Etiam ut tincidunt est, fermentum interdum lorem. Curabitur velit velit, dapibus in massa eget, tristique mattis ligula. Curabitur lacinia, diam vel tincidunt ultricies, enim quam facilisis arcu, at blandit arcu lorem at ipsum. Nulla facilisi. Cras nisl tortor, accumsan in tortor in, rutrum egestas orci. Nulla at vehicula turpis. Nunc accumsan interdum metus, sed facilisis ipsum gravida at. Sed non enim sagittis, suscipit orci vel, fringilla ex. Sed et ipsum ut ligula lobortis eleifend eget quis lacus.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Artikel nummer två</title>
+        <author>
+            <name>Sebastian Bernhardtz</name>
+        </author>
+        <link href="https://MolndalsKarate.github.io/website/artikel-nummer-tva.html"/>
+        <id>https://MolndalsKarate.github.io/website/artikel-nummer-tva.html</id>
+
+        <updated>2019-11-19T20:22:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://MolndalsKarate.github.io/website/media/posts/3/thao-le-hoang-Xl-ilWBKJNk-unsplash.jpg" alt="A group of Karate trainees" />
+                    Underrubrik nummer 1Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor sit amet lacus sed rutrum. Cras ligula dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus. Duis rhoncus diam quis tellus tincidunt fringilla. Etiam&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://MolndalsKarate.github.io/website/media/posts/3/thao-le-hoang-Xl-ilWBKJNk-unsplash.jpg" alt="A group of Karate trainees" />
+                <h2 id="mcetoc_1dq2hl8a30"><img class="post__image--left" src="https://MolndalsKarate.github.io/website/media/posts/3/shinzen-karate-inv-red-dark_bg.png" alt="Just a test" width="256" height="512">Underrubrik nummer 1</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor sit amet lacus sed rutrum. Cras ligula dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus. Duis rhoncus diam quis tellus tincidunt fringilla. Etiam ut tincidunt est, fermentum interdum lorem. Curabitur velit velit, dapibus in massa eget, tristique mattis ligula. Curabitur lacinia, diam vel tincidunt ultricies, enim quam facilisis arcu, at blandit arcu lorem at ipsum. Nulla facilisi. Cras nisl tortor, accumsan in tortor in, rutrum egestas orci. Nulla at vehicula turpis. Nunc accumsan interdum metus, sed facilisis ipsum gravida at. Sed non enim sagittis, suscipit orci vel, fringilla ex. Sed et ipsum ut ligula lobortis eleifend eget quis lacus.</p>
+<h2 id="mcetoc_1dq2hl8a30">Underrubrik nummer 2</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor sit amet lacus sed rutrum. Cras ligula dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus. Duis rhoncus diam quis tellus tincidunt fringilla. Etiam ut tincidunt est, fermentum interdum lorem. Curabitur velit velit, dapibus in massa eget, tristique mattis ligula. Curabitur lacinia, diam vel tincidunt ultricies, enim quam facilisis arcu, at blandit arcu lorem at ipsum. Nulla facilisi. Cras nisl tortor, accumsan in tortor in, rutrum egestas orci. Nulla at vehicula turpis. Nunc accumsan interdum metus, sed facilisis ipsum gravida at. Sed non enim sagittis, suscipit orci vel, fringilla ex. Sed et ipsum ut ligula lobortis eleifend eget quis lacus.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Artikel nummer ett</title>
         <author>
             <name>Sebastian Bernhardtz</name>
         </author>
         <link href="https://MolndalsKarate.github.io/website/vaelkommen.html"/>
         <id>https://MolndalsKarate.github.io/website/vaelkommen.html</id>
 
-        <updated>2019-11-06T16:55:36+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-11-20T15:30:23+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://MolndalsKarate.github.io/website/media/posts/1/shinzen-kai-intro-wide.jpg" alt="Karate boy on blood red background" />
+                    Nån annan sorts rubrikLorem ipsum dolor sit amet, consectetur adipiscing elit. Phaselus tempor sit amet lacus sed rutrum. Cras ligula dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus. Duis rhoncus diam quis tellus tincidunt fringilla.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://MolndalsKarate.github.io/website/media/posts/1/shinzen-kai-intro-wide.jpg" alt="Karate boy on blood red background" />
+                <h2 id="mcetoc_1dq2d8l6j0" class="hero-title">Nån annan sorts rubrik</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phaselus tempor sit amet lacus sed rutrum. Cras ligula dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus. Duis rhoncus diam quis tellus tincidunt fringilla. Etiam ut tincidunt est, fermentum interdum lorem. Curabitur velit velit, dapibus in massa eget, tristique mattis ligula. Curabitur lacinia, diam vel tincidunt ultricies, enim quam facilisis arcu, at blandit arcu lorem at ipsum. Nulla facilisi. Cras nisl tortor, accumsan in tortor in, rutrum egestas orci. Nulla at vehicula turpis. Nunc accumsan interdum metus, sed facilisis ipsum gravida at. Sed non enim sagittis, suscipit orci vel, fringilla ex. Sed et ipsum ut ligula lobortis eleifend eget quis lacus.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://MolndalsKarate.github.io/website/media/posts/1/gallery/1456868555Adult-Martial-Arts.jpg" ><img src="https://MolndalsKarate.github.io/website/media/posts/1/gallery/1456868555Adult-Martial-Arts-thumbnail.jpg" alt="Only for test" width="600" height="544"></a>
+<figcaption class="gallery-description">Test caption goes here...</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://MolndalsKarate.github.io/website/media/posts/1/gallery/ina-zhynko-3G7iQbx3DpE-unsplash.jpg" ><img src="https://MolndalsKarate.github.io/website/media/posts/1/gallery/ina-zhynko-3G7iQbx3DpE-unsplash-thumbnail.jpg" alt="Only for test" width="768" height="960"></a>
+<figcaption class="gallery-description">Test caption goes here...</figcaption>
+</figure>
+</div>
+<h3 id="mcetoc_1dq2d8l6j0">Nån annan sorts rubrik</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor sit amet lacus sed rutrum. Cras ligula dolor, venenatis quis rutrum non, auctor non ligula. Etiam id metus pretium est porta ultrices eget lobortis lacus.</p>
+<blockquote>
+<p>Duis rhoncus diam quis tellus tincidunt fringilla. Etiam ut tincidunt est, fermentum interdum lorem. Curabitur velit velit, dapibus in massa eget, tristique mattis ligula.</p>
+</blockquote>
+<p>Curabitur lacinia, diam vel tincidunt ultricies, enim quam facilisis arcu, at blandit arcu lorem at ipsum. Nulla facilisi. Cras nisl tortor, accumsan in tortor in, rutrum egestas orci. Nulla at vehicula turpis. Nunc accumsan interdum metus, sed facilisis ipsum gravida at. Sed non enim sagittis, suscipit orci vel, fringilla ex. Sed et ipsum ut ligula lobortis eleifend eget quis lacus.</p>
+            ]]>
+        </content>
     </entry>
 </feed>

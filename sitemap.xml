@@ -5,15 +5,55 @@
 <loc>https://MolndalsKarate.github.io/website/</loc>
 </url>
 <url>
-<loc>https://MolndalsKarate.github.io/website/hitta-hit.html</loc>
-<lastmod>2019-11-06T17:29:00+01:00</lastmod>
+<loc>https://MolndalsKarate.github.io/website/artikel-nummer-3.html</loc>
+<lastmod>2019-11-19T20:40:20+01:00</lastmod>
+<image:image>
+<image:loc>https://MolndalsKarate.github.io/website/media/posts/4/jase-bloor-oCZHIa1D4EU-unsplash.jpg</image:loc>
+<image:title><![CDATA[Test post]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MolndalsKarate.github.io/website/media/posts/4//jase-bloor-oCZHIa1D4EU-unsplash.jpg</image:loc>
+<image:title><![CDATA[Only for test]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://MolndalsKarate.github.io/website/artikel-nummer-4.html</loc>
+<lastmod>2019-11-19T20:40:31+01:00</lastmod>
+<image:image>
+<image:loc>https://MolndalsKarate.github.io/website/media/posts/5/charles-postiaux-kerhvcuNUY8-unsplash.jpg</image:loc>
+<image:title><![CDATA[Test post]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MolndalsKarate.github.io/website/media/posts/5/Karate-Classes.jpg</image:loc>
+<image:title><![CDATA[Test image]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://MolndalsKarate.github.io/website/artikel-nummer-tva.html</loc>
+<lastmod>2019-11-19T20:22:49+01:00</lastmod>
+<image:image>
+<image:loc>https://MolndalsKarate.github.io/website/media/posts/3/thao-le-hoang-Xl-ilWBKJNk-unsplash.jpg</image:loc>
+<image:title><![CDATA[A group of Karate trainees]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MolndalsKarate.github.io/website/media/posts/3/shinzen-karate-inv-red-dark_bg.png</image:loc>
+<image:title><![CDATA[Just a test]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://MolndalsKarate.github.io/website/vaelkommen.html</loc>
-<lastmod>2019-11-06T16:55:36+01:00</lastmod>
+<lastmod>2019-11-20T15:30:23+01:00</lastmod>
 <image:image>
-<image:loc>https://MolndalsKarate.github.io/website/media/posts/1/molndals-karateklubb-wooden-bg-lion_lrg-compressor.jpg</image:loc>
-<image:title><![CDATA[Tre svartbältade män i karatekläder]]></image:title>
+<image:loc>https://MolndalsKarate.github.io/website/media/posts/1/shinzen-kai-intro-wide.jpg</image:loc>
+<image:title><![CDATA[Karate boy on blood red background]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MolndalsKarate.github.io/website/media/posts/1/gallery/1456868555Adult-Martial-Arts-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Only for test]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://MolndalsKarate.github.io/website/media/posts/1/gallery/ina-zhynko-3G7iQbx3DpE-unsplash-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Only for test]]></image:title>
 </image:image>
 </url>
 </urlset>
