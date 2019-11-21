@@ -3,7 +3,7 @@
     <title>Mölndals Karateklubb - Shinzen Kai</title>
     <link href="https://MolndalsKarate.github.io/website/feed.xml" rel="self" />
     <link href="https://MolndalsKarate.github.io/website" />
-    <updated>2019-11-21T18:39:48+01:00</updated>
+    <updated>2019-11-21T18:52:41+01:00</updated>
     <author>
         <name>Sebastian Bernhardtz</name>
     </author>
@@ -115,7 +115,7 @@
         <link href="https://MolndalsKarate.github.io/website/vaelkommen.html"/>
         <id>https://MolndalsKarate.github.io/website/vaelkommen.html</id>
 
-        <updated>2019-11-21T18:39:42+01:00</updated>
+        <updated>2019-11-21T18:51:23+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://MolndalsKarate.github.io/website/media/posts/1/shinzen-kai-intro-wide.jpg" alt="Boy performing a Karate jump" />
@@ -154,7 +154,6 @@
 <div class="card__title card__title--medium">Sensei</div>
 <div class="card__title">Läs mer om Amir</div>
 </div>
-</div>
 <div class="col-thirds">
 <div class="card__image card__image__profile"><img src="https://MolndalsKarate.github.io/website/media/posts/1/ben_edit.jpg" alt="Ben"></div>
 <div class="card__title--large card__title__profile-name">Ben</div>
@@ -166,6 +165,7 @@
 <div class="card__title--large card__title__profile-name">Max</div>
 <div class="card__title card__title--medium">Sempai</div>
 <div class="card__title">Läs mer om Max</div>
+</div>
 </div>
             ]]>
         </content>
