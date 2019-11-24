@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://MolndalsKarate.github.io/website/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://molndalskarate.se/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://MolndalsKarate.github.io/website/</loc>
+<loc>https://molndalskarate.se/</loc>
 </url>
 <url>
-<loc>https://MolndalsKarate.github.io/website/artikel-nummer-3.html</loc>
+<loc>https://molndalskarate.se/artikel-nummer-3.html</loc>
 <lastmod>2019-11-19T20:40:20+01:00</lastmod>
 <image:image>
-<image:loc>https://MolndalsKarate.github.io/website/media/posts/4/jase-bloor-oCZHIa1D4EU-unsplash.jpg</image:loc>
+<image:loc>https://molndalskarate.se/media/posts/4/jase-bloor-oCZHIa1D4EU-unsplash.jpg</image:loc>
 <image:title><![CDATA[Test post]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://MolndalsKarate.github.io/website/media/posts/4//jase-bloor-oCZHIa1D4EU-unsplash.jpg</image:loc>
+<image:loc>https://molndalskarate.se/media/posts/4//jase-bloor-oCZHIa1D4EU-unsplash.jpg</image:loc>
 <image:title><![CDATA[Only for test]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://MolndalsKarate.github.io/website/artikel-nummer-4.html</loc>
+<loc>https://molndalskarate.se/artikel-nummer-4.html</loc>
 <lastmod>2019-11-19T20:40:31+01:00</lastmod>
 <image:image>
-<image:loc>https://MolndalsKarate.github.io/website/media/posts/5/charles-postiaux-kerhvcuNUY8-unsplash.jpg</image:loc>
+<image:loc>https://molndalskarate.se/media/posts/5/charles-postiaux-kerhvcuNUY8-unsplash.jpg</image:loc>
 <image:title><![CDATA[Test post]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://MolndalsKarate.github.io/website/media/posts/5/Karate-Classes.jpg</image:loc>
+<image:loc>https://molndalskarate.se/media/posts/5/Karate-Classes.jpg</image:loc>
 <image:title><![CDATA[Test image]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://MolndalsKarate.github.io/website/artikel-nummer-tva.html</loc>
+<loc>https://molndalskarate.se/artikel-nummer-tva.html</loc>
 <lastmod>2019-11-19T20:22:49+01:00</lastmod>
 <image:image>
-<image:loc>https://MolndalsKarate.github.io/website/media/posts/3/thao-le-hoang-Xl-ilWBKJNk-unsplash.jpg</image:loc>
+<image:loc>https://molndalskarate.se/media/posts/3/thao-le-hoang-Xl-ilWBKJNk-unsplash.jpg</image:loc>
 <image:title><![CDATA[A group of Karate trainees]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://MolndalsKarate.github.io/website/media/posts/3/shinzen-karate-inv-red-dark_bg.png</image:loc>
+<image:loc>https://molndalskarate.se/media/posts/3/shinzen-karate-inv-red-dark_bg.png</image:loc>
 <image:title><![CDATA[Just a test]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://MolndalsKarate.github.io/website/vaelkommen.html</loc>
+<loc>https://molndalskarate.se/vaelkommen.html</loc>
 <lastmod>2019-11-21T18:51:23+01:00</lastmod>
 <image:image>
-<image:loc>https://MolndalsKarate.github.io/website/media/posts/1/shinzen-kai-intro-wide.jpg</image:loc>
+<image:loc>https://molndalskarate.se/media/posts/1/shinzen-kai-intro-wide.jpg</image:loc>
 <image:title><![CDATA[Boy performing a Karate jump]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://MolndalsKarate.github.io/website/media/posts/1/amir-profile.jpg</image:loc>
+<image:loc>https://molndalskarate.se/media/posts/1/amir-profile.jpg</image:loc>
 <image:title><![CDATA[Amir Amini]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://MolndalsKarate.github.io/website/media/posts/1/ben_edit.jpg</image:loc>
+<image:loc>https://molndalskarate.se/media/posts/1/ben_edit.jpg</image:loc>
 <image:title><![CDATA[Ben]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://MolndalsKarate.github.io/website/media/posts/1/max-profile.jpg</image:loc>
+<image:loc>https://molndalskarate.se/media/posts/1/max-profile.jpg</image:loc>
 <image:title><![CDATA[Max]]></image:title>
 </image:image>
 </url>
