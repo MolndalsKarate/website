@@ -3,7 +3,7 @@
     <title>Mölndals Karateklubb - Shinzen Kai</title>
     <link href="https://molndalskarate.se/feed.xml" rel="self" />
     <link href="https://molndalskarate.se" />
-    <updated>2019-11-24T15:34:28+01:00</updated>
+    <updated>2019-11-24T15:56:33+01:00</updated>
     <author>
         <name>Sebastian Bernhardtz</name>
     </author>
@@ -115,7 +115,7 @@
         <link href="https://molndalskarate.se/vaelkommen.html"/>
         <id>https://molndalskarate.se/vaelkommen.html</id>
 
-        <updated>2019-11-24T15:15:57+01:00</updated>
+        <updated>2019-11-24T15:56:21+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://molndalskarate.se/media/posts/1/shinzen-kai-intro-wide.jpg" alt="Boy performing a Karate jump" />
@@ -172,7 +172,7 @@
 <h2 id="mcetoc_1dqemlkrf0">Provträna gratis!</h2>
 <p>Vi förstår att det är <span class="underline-wavy underline-wavy--green fat-font">svårt att veta om något passar innan man har provat</span>. <br>Ingen går väl och köper kläder bara för att de ser snygga ut på bild? Det ska ju passa också!<br>Därför får du provträna hos oss <span class="fat-font">helt gratis!</span></p>
 </div>
-<div class="cta-button"><a href="#" class="btn btn--outline btn--outline-green">Jag vill veta mer :)</a></div>
+<div class="cta-button"><a href="#" class="btn btn--outline btn--outline--green">Jag vill veta mer :)</a></div>
 </div>
             ]]>
         </content>
