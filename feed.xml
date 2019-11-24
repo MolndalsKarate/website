@@ -3,7 +3,7 @@
     <title>Mölndals Karateklubb - Shinzen Kai</title>
     <link href="https://molndalskarate.se/feed.xml" rel="self" />
     <link href="https://molndalskarate.se" />
-    <updated>2019-11-24T12:53:00+01:00</updated>
+    <updated>2019-11-24T15:34:28+01:00</updated>
     <author>
         <name>Sebastian Bernhardtz</name>
     </author>
@@ -115,18 +115,18 @@
         <link href="https://molndalskarate.se/vaelkommen.html"/>
         <id>https://molndalskarate.se/vaelkommen.html</id>
 
-        <updated>2019-11-21T18:51:23+01:00</updated>
+        <updated>2019-11-24T15:15:57+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://molndalskarate.se/media/posts/1/shinzen-kai-intro-wide.jpg" alt="Boy performing a Karate jump" />
-                    Välkommen till oss!Mölndals Karateklubb Shinzen Kai är en idrottsförening i Mölndal där du får lära dig om disciplin och självförsvar samtidigt som du utvecklar självkännedom om både kropp och sinne. Vi har en härlig familjär gemenskap där ingen anses vara bättre eller sämre. Hit är alla välkomna! Vi&hellip;
+                    Välkommen till oss!Mölndals Karateklubb Shinzen Kai är en idrottsförening i Mölndal där du får lära dig om disciplin och självförsvar samtidigt som du utvecklar självkännedom om både kropp och sinne. Vi har en härlig familjär gemenskap där ingen anses vara bättre eller sämre. Hit är alla välkomna!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://molndalskarate.se/media/posts/1/shinzen-kai-intro-wide.jpg" alt="Boy performing a Karate jump" />
                 <h2 id="mcetoc_1dq2d8l6j0" class="hero-title">Välkommen till oss!</h2>
-<p class="p1"><span class="s1">Mölndals Karateklubb Shinzen Kai är en idrottsförening i Mölndal där du får lära dig om disciplin och självförsvar samtidigt som du utvecklar självkännedom om både kropp och sinne. </span><span class="s1">Vi har en härlig familjär gemenskap där ingen anses vara bättre eller sämre. Hit är alla välkomna!</span></p>
+<p class="p1"><span class="s1">Mölndals Karateklubb Shinzen Kai är en idrottsförening i Mölndal där du får lära dig om disciplin och självförsvar samtidigt som du utvecklar självkännedom om både kropp och sinne. </span><span class="s1">Vi har en härlig familjär gemenskap där ingen anses vara bättre eller sämre. Hit är alla välkomna!</span></p>
 <h3 id="mcetoc_1dq2d8l6j0">Bra att veta om du vill börja träna</h3>
 <div class="row__frontpage">
 <div class="col-thirds col-thirds--gunmetal"><i class="icofont-google-map icofont-5x"></i>
@@ -166,6 +166,13 @@
 <div class="card__title card__title--medium">Sempai</div>
 <div class="card__title">Läs mer om Max</div>
 </div>
+</div>
+<div class="cta-section">
+<div class="cta-desc">
+<h2 id="mcetoc_1dqemlkrf0">Provträna gratis!</h2>
+<p>Vi förstår att det är <span class="underline-wavy underline-wavy--green fat-font">svårt att veta om något passar innan man har provat</span>. <br>Ingen går väl och köper kläder bara för att de ser snygga ut på bild? Det ska ju passa också!<br>Därför får du provträna hos oss <span class="fat-font">helt gratis!</span></p>
+</div>
+<div class="cta-button"><a href="#" class="btn btn--outline btn--outline-green">Jag vill veta mer :)</a></div>
 </div>
             ]]>
         </content>
